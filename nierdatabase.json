@@ -1,5 +1,9 @@
 {
   "data": {
-    "data": {}
+    "users": {},
+    "sticker": {},
+    "database": {},
+    "game": {},
+    "others": {}
   }
 }
